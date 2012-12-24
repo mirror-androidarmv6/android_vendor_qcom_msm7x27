@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/msm7x27/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/qcom/msm7x27/proprietary/lib/egl/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
     vendor/qcom/msm7x27/proprietary/lib/egl/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
-    vendor/qcom/msm7x27/proprietary/lib/egl/libGLES_android.so:/system/lib/egl/libGLES_android.so \
     vendor/qcom/msm7x27/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/qcom/msm7x27/proprietary/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/qcom/msm7x27/proprietary/lib/egl/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
